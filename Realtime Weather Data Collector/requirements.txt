@@ -1,6 +1,6 @@
 # Function dependencies, for example:
 # package>=version
-requests==2.20.0
+requests==2.31.0
 numpy
 google-cloud-storage
 datetime
